@@ -11,7 +11,7 @@ These notes contain the same structure as the transcriptions, along with additio
 Generally, there is one document for each lesson in the course. If there are related lessons, the notes will be in the same document.
 
 
-## Course Objective
+## Course Objective 💪
 
 US census says about 20% of people self-identify as having a disability of some sort. Writing webpages with accessibility in mind is not only important; it's crucial.
 
@@ -20,9 +20,9 @@ This course will deal with the following issues:
 - What tools should you be using?
 - Once you have identified the issues, how can you fix them?
 
-## Table of Contents
+## Table of Contents 🔍
 
-- [Develop Accessible Web Apps with React](00-intro.md)
+- [00. Develop Accessible Web Apps with React](00-intro.md)
 - [01. Set up ESLint to Audit Accessibility Issues in React](01-eslint-plugin.md)
 - [02. Use react-axe to Audit Accessibility Issues at Runtime during Development](02-react-axe.md)
 - [03. Use the axe Browser Extension to Audit a Web Page for Accessibility Issues](03-axe-browser-extension.md)
