@@ -1,6 +1,6 @@
 # 00. Develop Accessible Web Apps with React
 
-**[📹 Video](https://egghead.io/lessons/react-v2-00-a-beginners-guide-to-react-introduction?pl=a-beginners-guide-to-react-v2-6c4d)**
+**[📹 Video](https://egghead.io/courses/develop-accessible-web-apps-with-react)**
 
 **[💻 Course Repo](https://github.com/erin-doyle/egghead-react-a11y/tree/labels)**
 
