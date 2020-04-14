@@ -7,7 +7,7 @@
 
 ## Notes on Notes 🤓
 
-The word accessibility is often abbreviated to **a11y** with the number eleven in the middle (this refers to the number of letters that the word contains between the first and last letter - a numeronym).
+The word accessibility is often abbreviated to **a11y** with the number eleven in the middle (this refers to the number of letters that the word contains between the first and last letter - a numeronym). It's [pronounced as](https://a11yproject.com/posts/a11y-and-other-numeronyms/) “A-one-one-Y”, “A-eleven-Y”, and liberally as “ally”.
 
 ### What Is Web Accessibility?
 
