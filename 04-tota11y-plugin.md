@@ -9,6 +9,8 @@ For [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tota11y-accessibili
 
 * You can toggle the extension in the extension menu of your chosen browser. Once you do that, you'll see the sunglasses icon on the bottom left of your screen.
 
+![](./images/tota11y.png)
+
 Click on the icon to choose from the different plugins:
 - headings (for example: missing h1, heading levels are not in order)
 - contrast (insufficient contrast between foreground and background)
