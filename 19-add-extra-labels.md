@@ -11,4 +11,4 @@ But what is the difference between `aria-label` and `aria-labelledby`?
 
 * also `aria-labelledby` can group several elements together via a list of IDs (delimited by a space). In practical terms, by grouping things together, you'll be able to control which things are read together, providing for a better screen reader experience.
 
-* Further explanation on [ARIA Labels and Relationships](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships).🤔
+* 🤔 Further explanation on [ARIA Labels and Relationships](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships).

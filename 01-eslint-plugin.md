@@ -3,7 +3,7 @@
 **[📹 Video](https://egghead.io/lessons/react-v2-00-a-beginners-guide-to-react-introduction?pl=a-beginners-guide-to-react-v2-6c4d)**
 
 
-Automate accessibility checks in React with an eslint plugin. 👍
+👍 Automate accessibility checks in React with an eslint plugin. 
 
 To install both `eslint` and the accessibility plugin [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) run:
 
@@ -33,7 +33,7 @@ Example configuration:
 }
 ```
 
-* Check [other supported rules](https://www.npmjs.com/package/eslint-plugin-jsx-a11y#supported-rules). 🤔
+* 🤔 Check [other supported rules](https://www.npmjs.com/package/eslint-plugin-jsx-a11y#supported-rules). 
 
 * You can also extend an existing set of rules to either `strict` or `recommended` ([Differences between the two](https://github.com/evcohen/eslint-plugin-jsx-a11y#difference-between-recommended-and-strict-mode)).
 

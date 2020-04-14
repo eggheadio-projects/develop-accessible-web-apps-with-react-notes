@@ -5,7 +5,7 @@
 
 * On your MacOS computer go to **System preferences**, then **Accessibility**.
 
-* For quick access in the future, you can check the **Show Accessibilty status in menu bar**. 👍
+* 👍 For quick access in the future, you can check the **Show Accessibilty status in menu bar**. 
 
 Go to **Display** and play with the different settings there. The three most important ones (for testing your website) are:
 - invert color

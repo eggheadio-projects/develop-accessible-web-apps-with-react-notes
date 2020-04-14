@@ -21,4 +21,4 @@ This can be done in two ways:
 <input type="text" id="name" name="user_name">
 ```
 
-* "If there is no label, or if the form control is neither implicitly or explicitly associated with a label, and a screen reader will read out something like 'Edit text blank', which isn't very helpful at all." More on [MDN docs](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form) 🤔
+* 🤔 "If there is no label, or if the form control is neither implicitly or explicitly associated with a label, and a screen reader will read out something like 'Edit text blank', which isn't very helpful at all." More on [MDN docs](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form) 

@@ -11,7 +11,7 @@ Install `react-axe` plugin:
 
 * To initialize the plugin, you'll have to add it to the file that starts your application (typically something like `app.js` or `index.js`).
 
-* Initialize it before rendering your first React component and make sure it runs only in development (to avoid performance overhead and console.logs in the production). 👍
+* 👍Initialize it before rendering your first React component and make sure it runs only in development (to avoid performance overhead and console.logs in the production). 
 
 ```js
 if (process.env.NODE_ENV !== 'production') {

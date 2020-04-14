@@ -11,4 +11,4 @@ You can choose between four settings:
 - black theme
 - white theme
 
-For easier access in the future, you can right-click on **High contrast** and click **Pin to Start**. 👍
+👍 For easier access in the future, you can right-click on **High contrast** and click **Pin to Start**. 
