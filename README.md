@@ -2,6 +2,14 @@
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/412/full/AccessibleReact_1000.png" width="200"></p>
 
+<p align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+    
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+    
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+</p>
+
 ## About
 
 This repo contains notes from [Erin Doyle](https://twitter.com/SunshinyDoyle)'s [Develop Accessible Web Apps with React Notes](https://egghead.io/courses/develop-accessible-web-apps-with-react).
@@ -51,3 +59,13 @@ This course will deal with the following issues:
 - [26. Define a Live Region to Ensure Dynamic Changes are Announced by Assistive Technologies](26-live-regions.md)
 - [27. Appropriately Set the Focus on Each Page Load of a Web Application](27-manage-focus.md)
 - [28. WTF are Accessible Design Patterns?](28-accessible-design-patterns.md)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/edieblu"><img src="https://avatars0.githubusercontent.com/u/17270662?s=460&u=8d1a4d67576db0a3baa21fa5b2ecab811476da61&v=4" width="100px;" alt=""/><br /><sub><b>Eva</b></sub></a><br /><a href="#review-edieblu" title="Review">👀</a><a href="#content-edieblu" title="Content">🖋</a></td>
+</table>
