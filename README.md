@@ -1,3 +1,5 @@
+<h1 align="center"><a href="https://github.com/eggheadio/eggheadio-course-notes">:warning: notes have been moved to eggheadio-course-notes!</a></h1>
+
 <h1 align="center"><a href="https://egghead.io/courses/develop-accessible-web-apps-with-react">Develop Accessible Web Apps with React Notes</a></h1>
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/412/full/AccessibleReact_1000.png" width="200"></p>
